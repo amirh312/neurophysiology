@@ -1,0 +1,6 @@
+{
+  "name": "ارائه جامع نوروفیزیولوژی گفتار، شنوایی، شناخت و بلع",
+  "description": "سامانه و وب‌اپلیکیشن تعاملی ارائه پیشرفته نوروفیزیولوژی دستگاه گفتار، شناخت، اعصاب مغزی و بلع در جلسه اساتید | دانشکده علوم توانبخشی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
